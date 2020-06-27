@@ -1,0 +1,6 @@
+import requests
+
+url = "https://s-m.com.sa/tr/login.html"
+request = requests.get(url)
+text = request.text
+print(text)
