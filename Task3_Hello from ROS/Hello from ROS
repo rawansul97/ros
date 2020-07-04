@@ -1,0 +1,9 @@
+In the uploaded image, you can find a simple Hello example from ROS
+
+
+In order to do this task, you have to follow the follwing steps:
+
+1- Install ROS (Check Task 1, you can find the installation instructions)
+2- Create a ROS workspace (Follow the instructions in the this link http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+3- Create and build a ROS package (Follow the instructions in this link http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
+4- Write a simple Hello World.cpp and use in your pakage (You can get help from this course https://www.udemy.com/course/ros-basics-program-robots/learn/lecture/8892582#overview) 
