@@ -1,0 +1,10 @@
+In the uploaded image, you can see 2 nodes (Publisher) and (Subscriber) 
+shared a string message "Hello Rawan!" in a custom package
+
+Fllow the below steps to complete the task:
+1- Create a ROS workspace
+2- Create a new package
+3- Create publisher & subsciber nodes using python as illustrated in the image
+
+Highly recomanded to follow the instructions in this course on Udemy via the follwing link
+https://www.udemy.com/course/ros-basics-program-robots/learn/lecture/8892596#overview
